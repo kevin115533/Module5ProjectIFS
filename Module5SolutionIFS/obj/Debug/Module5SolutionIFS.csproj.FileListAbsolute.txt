@@ -1,0 +1,10 @@
+C:\Users\Kevin Tran\source\repos\Module5ProjectIFS\Module5SolutionIFS\bin\Debug\Module5SolutionIFS.exe.config
+C:\Users\Kevin Tran\source\repos\Module5ProjectIFS\Module5SolutionIFS\bin\Debug\Module5SolutionIFS.exe
+C:\Users\Kevin Tran\source\repos\Module5ProjectIFS\Module5SolutionIFS\bin\Debug\Module5SolutionIFS.pdb
+C:\Users\Kevin Tran\source\repos\Module5ProjectIFS\Module5SolutionIFS\obj\Debug\Module5SolutionIFS.csprojAssemblyReference.cache
+C:\Users\Kevin Tran\source\repos\Module5ProjectIFS\Module5SolutionIFS\obj\Debug\Module5SolutionIFS.frmDecisions.resources
+C:\Users\Kevin Tran\source\repos\Module5ProjectIFS\Module5SolutionIFS\obj\Debug\Module5SolutionIFS.Properties.Resources.resources
+C:\Users\Kevin Tran\source\repos\Module5ProjectIFS\Module5SolutionIFS\obj\Debug\Module5SolutionIFS.csproj.GenerateResource.cache
+C:\Users\Kevin Tran\source\repos\Module5ProjectIFS\Module5SolutionIFS\obj\Debug\Module5SolutionIFS.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Tran\source\repos\Module5ProjectIFS\Module5SolutionIFS\obj\Debug\Module5SolutionIFS.exe
+C:\Users\Kevin Tran\source\repos\Module5ProjectIFS\Module5SolutionIFS\obj\Debug\Module5SolutionIFS.pdb
